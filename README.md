@@ -1,4 +1,4 @@
-# gomuku-
+# gomoku
 My first GUI Gomoku game written in Python
 
 # Gomoku QINXIN XU Edition 🎮
